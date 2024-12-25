@@ -1,4 +1,4 @@
-I (The_Gnat) did the majority of the coding, recently newfrenchy83 has helped alot to port this to 1.17 and do bugfixes. All the image goes credit to the below: 
+I (The_Gnat) did the majority of the coding but all the image goes credit to the below: 
 (and if you see any good animations you can be sure i didn't create them)
 
 = Dwarves::
