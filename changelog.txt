@@ -1,18 +1,5 @@
 CHANGELOG:
 
-(Version 9.2.13dev+) update quenoth Youth by newfrenchy83 and add level 4 advancement status(hitpoints and attacks), update utbs_abilities macro, fix elvish unit not revalles in Legend of Wesmere
-(Version 9.2.13) - Removed deprecated special notes by newfrenchy83.
-(Version 9.2.12) - Bug fixes by newfrenchy83.
-(Version 9.2.11dev) - erase lua_events macro for using [modify_unit_type]
-Add ability leadership to LotI to ROLElvish Grand Master line and ROLSupreme Commander, other ability in abilities.cfg but not used now.
-fix ROLQuenoth Two Sun Sylph halo who is illuminates halo then illumination not active
-fix BACKSTAB_FILTER don't use formula
-(Version 9.2.11) - Updates via newfrenchy83 to port to 1.17!
-(Version 9.2.10dev) - ROLProphet of Fire and ROLElvish Avatar have ABILITY_MAGICAL_LEADERSHIP. ABILITY_MAGICAL_LEADERSHIP updatedfor 1.18 version. Fix ENABLE_ADVANCES_TO macro don't exist.
-Use [firststrike] ability code for ROLinitiative, remove deprecated {SPECIAL_NOTES} and use new special_note in weapon and abilities.
-include halo_image in illuminates abilities.
-replace deprecated special= by special_id or special_type=
-
 (Version 9.2.10) - ROL Outcasts can now recruit. Fixed unit advancement for Drake Great Sword. Equestrian Supreme now can be advanced from Apocalypse rider as well, Dragon Rider has more movement now to balance between the two.
 
 (Version 9.2.2) - Thanks to some code from gfgtdf I have implemented a lua advancement solution that replaces the old advancements. Now you don't need the other RoTL add-on but instead only click to turn on or off the advancement modification and allow your units to advance to lvl 4 and 5 heroes!
